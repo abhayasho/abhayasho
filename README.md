@@ -1,16 +1,14 @@
-## Hi there 👋
+# hi! i'm abhay 👋
 
-<!--
-**abhayasho/abhayasho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Georgia Tech exploring the intersection of machine learning, systems, and finance. I love building intelligent tools—from ML-accelerated simulations to embedded systems and trading research.
 
-Here are some ideas to get you started:
+## currently 📍
+- building AI + embedded systems tools  
+- researching ML solvers for fluid dynamics  
+- learning more about market microstructure + quant models  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## reach out to me!
+📫 aashok45@gatech.edu  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhay-ashok/)
+
+> corporate projects and works are private.
