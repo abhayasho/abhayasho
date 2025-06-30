@@ -1,4 +1,4 @@
-# hi! i'm abhay 👋
+# Hi! I'm Abhay 👋
 
 I'm a Computer Science student at Georgia Tech exploring the intersection of machine learning, systems, and finance. I love building intelligent tools—from ML-accelerated simulations to embedded systems and trading research.
 
