@@ -47,8 +47,8 @@ I'm a Computer Science student at **Georgia Tech** exploring the intersection of
       <b><a href="https://github.com/abhayasho/vqa-hub">VQA Hub</a></b>: research on routing small vision and language models for visual question answering.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/abhayasho/Cats-Crossing"><img src="https://raw.githubusercontent.com/abhayasho/Cats-Crossing/main/assets/banner.png" alt="Cat's Crossing"></a>
-      <b><a href="https://github.com/abhayasho/Cats-Crossing">Cat's Crossing</a></b>: a Frogger-style Game Boy Advance game written in C.
+      <a href="https://github.com/abhayasho/AscentGBA"><img src="https://raw.githubusercontent.com/abhayasho/AscentGBA/M01/docs/images/banner.png" alt="Ascent"></a>
+      <b><a href="https://github.com/abhayasho/AscentGBA">Ascent</a></b>: a six-floor dungeon adventure for the Game Boy Advance, written in C.
     </td>
   </tr>
   <tr>
