@@ -27,8 +27,8 @@ I'm a Computer Science student at **Georgia Tech** exploring the intersection of
       <b><a href="https://github.com/abhayasho/Gravity">Gravity</a></b>: a WebGL view of Earth and the thousands of objects orbiting it.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/abhayasho/NeoLink"><img src="https://raw.githubusercontent.com/abhayasho/NeoLink/main/assets/banner.png" alt="NeoLink"></a>
-      <b><a href="https://github.com/abhayasho/NeoLink">NeoLink</a></b>: a native macOS terminal with tabbed SSH sessions and an SFTP browser.
+      <a href="https://github.com/abhayasho/NeoLink"><img src="https://raw.githubusercontent.com/abhayasho/NeoLink/main/assets/banner.png?v=2" alt="NeoLink — native macOS coding workspace" width="100%"></a>
+      <b><a href="https://github.com/abhayasho/NeoLink">NeoLink</a></b>: a native macOS coding workspace with GPU-rendered terminals, a Neovim editor, SSH/SFTP, Git review and coding agents.
     </td>
   </tr>
   <tr>
